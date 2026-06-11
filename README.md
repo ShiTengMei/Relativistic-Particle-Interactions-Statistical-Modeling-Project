@@ -33,7 +33,7 @@ This project, conducted as part of the advanced physics lab curriculum at Stony 
   * [integral_under_the_entire_fitting_curve](integral_under_the_entire_fitting_curve.ipynb)
     
 # The final report
-* [Final version compton scattering.pdf]
+* [Final version compton scattering](Final version compton scattering.pdf)
 
 
 
