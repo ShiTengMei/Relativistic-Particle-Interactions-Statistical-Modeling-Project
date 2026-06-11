@@ -46,14 +46,6 @@ Scripts written for data cleanup, modeling, statistical verification, and plotti
 *   [`curve_fitting_of_total_absorption_efficiency.ipynb`](curve_fitting_of_total_absorption_efficiency.ipynb) — Optimization model for efficiency coefficients.
 *   [`gaussian_fit_reading_data_version1.ipynb`](gaussian_fit_reading_data_version1.ipynb) — Data ingestion and Gaussian peak isolation scripts.
 *   [`integral_under_the_entire_fitting_curve.ipynb`](integral_under_the_entire_fitting_curve.ipynb) — Code executing definite integration for total pulse count processing.
-
-
-# Repository Structure
-* Python source files (.py or .ipynb) written for data cleanup, modeling, and plotting:
-* * [Compton scattering three curves notebook](compton_scattering_three_curves.ipynb)
-  * [curve_fitting_of_total_absorption_efficiency](curve_fitting_of_total_absorption_efficiency.ipynb)
-  * [gaussian_fit_reading_data_version1](gaussian_fit_reading_data_version1.ipynb)
-  * [integral_under_the_entire_fitting_curve](integral_under_the_entire_fitting_curve.ipynb)
     
 ### 📄 Project Documentation
 *   [**Final Version Compton Scattering Report (PDF)**](Final_version_compton_scattering.pdf) — Comprehensive, structured technical paper detailing equipment calibration metrics, data visualizations, and mathematical error propagation formulas.
