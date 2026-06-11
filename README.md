@@ -27,7 +27,7 @@ This project, conducted as part of the advanced physics lab curriculum at Stony 
 
 # Repository Structure
 * Python source files (.py or .ipynb) written for data cleanup, modeling, and plotting:
-* * compton_scattering_three_curves.ipynb
+* * [Compton scattering three curves notebook](compton_scattering_three_curves.ipynb)
   * 
 * /data: Raw spreadsheet data tracking calibration sets, material cross-sections, and background metrics.
 * /docs: A mathematical breakdown of the error propagation formulas utilized throughout the project.
