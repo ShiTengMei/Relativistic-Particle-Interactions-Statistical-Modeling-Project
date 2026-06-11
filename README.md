@@ -1,5 +1,5 @@
 # Relativistic Particle Interactions: Statistical Modeling of Compton Scattering
-# Author: ShiTeng Mei | Project Date: Fall 2024 
+## Author: ShiTeng Mei | Project Date: Fall 2024 
 
 # Project Overview
 This project, conducted as part of the advanced physics lab curriculum at Stony Brook University (December 2024), investigates the foundational principles of the Compton effect to experimentally verify the relativistic parameters of subatomic particles. Using an experimental Compton scattering apparatus to measure the energy and count rates of scattered gamma rays within specific solid angles, the project successfully achieves three primary data objectives:
