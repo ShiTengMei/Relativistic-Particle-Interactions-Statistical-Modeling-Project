@@ -7,7 +7,9 @@ This project, conducted as part of the advanced physics lab curriculum at Stony 
 * Cross-Section Model Evaluation: Constructed an experimental graph of the differential cross-section across multiple angles, comparing the data against classical Thomson scattering and quantum Klein-Nishina (K-N) formulas. Minimum chi-square calculations yielded $\chi^2 = 70.16$ for the K-N model and $\chi^2 = 1340.37$ for the Thomson model, quantitatively proving that the quantum mechanical K-N model provides a superior approximation for relativistic observed results.
 * Material Yield Quantification: Determined the total free electron counts in small aluminum (Al) and copper (Cu) scatterers, evaluating their respective yield ratios at scattering coordinates of 25° (obtaining 0.86) and 45° (obtaining 0.64).  
 
-# Libraries/Tools: Multi-Channel Analyzer (MCA) software, Oscilloscope digitization  Mathematical Models: Gaussian Distribution Fitting (python), Linear Regression (spreadsheet), Minimum Chi-Square ($\chi^2$) Analysis, and Data Layout & Tracking uses Spreadsheet software (Excel).
+# Libraries/Tools: 
+* Multi-Channel Analyzer (MCA) software, Oscilloscope digitization
+* Mathematical Models: Gaussian Distribution Fitting (python), Linear Regression (spreadsheet), Minimum Chi-Square ($\chi^2$) Analysis, and Data Layout & Tracking uses Spreadsheet software (Excel).
 
 # Data Processing WorkflowSignal Acquisition: 
 * Captured raw electrical pulse counts from gamma-ray interactions with Aluminum and Copper scatterers.
