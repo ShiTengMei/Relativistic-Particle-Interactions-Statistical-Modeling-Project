@@ -32,8 +32,8 @@ This project, conducted as part of the advanced physics lab curriculum at Stony 
   * [gaussian_fit_reading_data_version1](gaussian_fit_reading_data_version1.ipynb)
   * [integral_under_the_entire_fitting_curve](integral_under_the_entire_fitting_curve.ipynb)
     
-* /data: Raw spreadsheet data tracking calibration sets, material cross-sections, and background metrics.
-* /docs: A mathematical breakdown of the error propagation formulas utilized throughout the project.
+# The final report
+* * [Compton scattering]()
 
 
 
